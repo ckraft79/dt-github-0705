@@ -62,7 +62,9 @@ wp-includes/*
 wp-content/index.php
 wp-content/uploads/*
 wp-content/upgrade/*
-wp-content/plugins/mu-plugins/*
+wp-content/mu-plugins
+wp-content/mu-plugins/
+wp-content/mu-plugins/*
 
 # ignore node/grunt dependency directories
 node_modules/
