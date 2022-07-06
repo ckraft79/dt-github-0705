@@ -54,6 +54,7 @@
 *.php
 license.txt
 readme.html
+_wpeprivate/*
 wp-admin/*
 wp-includes/*
 wp-content/index.php
